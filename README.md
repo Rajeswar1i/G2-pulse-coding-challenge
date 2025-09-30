@@ -41,3 +41,35 @@ A JSON array of reviews, each containing:
 
 ## Bonus Source
 - **TrustRadius** integrated as the third source for SaaS reviews.
+
+## Sample Output
+[
+  {
+    "title": "Great for team communication",
+    "review": "Slack has transformed the way our team communicates. Channels, integrations, and notifications make collaboration seamless.",
+    "date": "2024-12-15T00:00:00",
+    "rating": "5",
+    "author": "Jane Doe",
+    "source": "g2",
+    "source_url": "https://www.g2.com/products/slack/reviews"
+  },
+  {
+    "title": "Easy to use but notifications can be overwhelming",
+    "review": "Slack is intuitive, but sometimes the volume of notifications is too high. Muting channels helps, though.",
+    "date": "2024-11-20T00:00:00",
+    "rating": "4",
+    "author": "John Smith",
+    "source": "g2",
+    "source_url": "https://www.g2.com/products/slack/reviews"
+  },
+  {
+    "title": "Excellent integrations",
+    "review": "The variety of app integrations makes Slack a powerful hub for all our workflows.",
+    "date": "2024-10-05T00:00:00",
+    "rating": "5",
+    "author": "Emily Johnson",
+    "source": "g2",
+    "source_url": "https://www.g2.com/products/slack/reviews"
+  }
+]
+
