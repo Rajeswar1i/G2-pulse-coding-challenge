@@ -39,6 +39,9 @@ A JSON array of reviews, each containing:
 - Handles pagination by scrolling.
 - Respect site scraping policies; for educational purposes only.
 
+## Problems faced
+- If the user doesn't have authentication to access the code it will show you like "403 error". To resolve that use API Authentication and Authothrization concept.
+
 ## Bonus Source
 - **TrustRadius** integrated as the third source for SaaS reviews.
 
