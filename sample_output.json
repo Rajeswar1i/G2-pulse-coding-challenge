@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Excellent product and support",
+    "review": "We've been using this tool for several months. It improved our workflow significantly.",
+    "date": "2024-08-12T00:00:00+00:00",
+    "rating": "5",
+    "author": "Jane Doe",
+    "source": "g2",
+    "source_url": "https://www.g2.com/reviews/example"
+  },
+  {
+    "title": "Good value but needs improvements",
+    "review": "The software is useful but has some bugs that need fixing.",
+    "date": "2024-07-20T00:00:00+00:00",
+    "rating": "4",
+    "author": "John Smith",
+    "source": "capterra",
+    "source_url": "https://www.capterra.com/reviews/example"
+  }
+]
